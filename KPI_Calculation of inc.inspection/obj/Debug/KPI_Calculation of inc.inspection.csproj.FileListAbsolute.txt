@@ -1,0 +1,93 @@
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe.config
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.pdb
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csprojResolveAssemblyReference.cache
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Form1.resources
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Properties.Resources.resources
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.GenerateResource.Cache
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.pdb
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe.config
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.pdb
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csprojResolveAssemblyReference.cache
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Form1.resources
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Properties.Resources.resources
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.GenerateResource.Cache
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.exe
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.pdb
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe.config
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.pdb
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csprojAssemblyReference.cache
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Form1.resources
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Properties.Resources.resources
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.GenerateResource.cache
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.CoreCompileInputs.cache
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.exe
+G:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.pdb
+D:\Projects_ALL\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe.config
+D:\Projects_ALL\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe
+D:\Projects_ALL\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.pdb
+D:\Projects_ALL\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csprojAssemblyReference.cache
+D:\Projects_ALL\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Form1.resources
+D:\Projects_ALL\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Properties.Resources.resources
+D:\Projects_ALL\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.GenerateResource.cache
+D:\Projects_ALL\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.CoreCompileInputs.cache
+D:\Projects_ALL\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.exe
+D:\Projects_ALL\KPI_Calculation of inc.inspection2\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.pdb
+D:\Projects_ALL\KPI_Calculation of inc.inspectionООП\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe.config
+D:\Projects_ALL\KPI_Calculation of inc.inspectionООП\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe
+D:\Projects_ALL\KPI_Calculation of inc.inspectionООП\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.pdb
+D:\Projects_ALL\KPI_Calculation of inc.inspectionООП\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csprojAssemblyReference.cache
+D:\Projects_ALL\KPI_Calculation of inc.inspectionООП\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Form1.resources
+D:\Projects_ALL\KPI_Calculation of inc.inspectionООП\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Properties.Resources.resources
+D:\Projects_ALL\KPI_Calculation of inc.inspectionООП\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.GenerateResource.cache
+D:\Projects_ALL\KPI_Calculation of inc.inspectionООП\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.CoreCompileInputs.cache
+D:\Projects_ALL\KPI_Calculation of inc.inspectionООП\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.exe
+D:\Projects_ALL\KPI_Calculation of inc.inspectionООП\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.pdb
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe.config
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.pdb
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csprojAssemblyReference.cache
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Properties.Resources.resources
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.GenerateResource.cache
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.CoreCompileInputs.cache
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.pdb
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.MainWindow.resources
+C:\Users\maksym02\Desktop\NEW\Projects\Old\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe.config
+C:\Users\maksym02\Desktop\NEW\Projects\Old\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.MainWindow.resources
+C:\Users\maksym02\Desktop\NEW\Projects\Old\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.GenerateResource.Cache
+C:\Users\maksym02\Desktop\NEW\Projects\Old\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Properties.Resources.resources
+C:\Users\maksym02\Desktop\NEW\Projects\Old\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\maksym02\Desktop\NEW\Projects\Old\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.pdb
+C:\Users\maksym02\Desktop\NEW\Projects\Old\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\maksym02\Desktop\NEW\Projects\Old\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.pdb
+C:\Users\maksym02\Desktop\NEW\Projects\Old\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csprojResolveAssemblyReference.cache
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe.config
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.pdb
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.AssemblyReference.cache
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.MainWindow.resources
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Properties.Resources.resources
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.GenerateResource.cache
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.CoreCompileInputs.cache
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.CopyComplete
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\maksym02\Desktop\NEW\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.pdb
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe.config
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\KPI_Calculation of inc.inspection.pdb
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.MainWindow.resources
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation_of_inc.inspection.Properties.Resources.resources
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.GenerateResource.cache
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.CoreCompileInputs.cache
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.pdb
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.AssemblyReference.cache
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Debug\KPI_Calculation of inc.inspection.csproj.CopyComplete

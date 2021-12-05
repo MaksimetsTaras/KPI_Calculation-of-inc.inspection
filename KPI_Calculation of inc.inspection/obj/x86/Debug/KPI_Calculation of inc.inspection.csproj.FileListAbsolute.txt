@@ -1,0 +1,12 @@
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\x86\Debug\KPI_Calculation of inc.inspection.exe.config
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\x86\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\x86\Debug\KPI_Calculation of inc.inspection.pdb
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\x86\Debug\DocumentFormat.OpenXml.dll
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\bin\x86\Debug\DocumentFormat.OpenXml.xml
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\x86\Debug\KPI_Calculation_of_inc.inspection.MainWindow.resources
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\x86\Debug\KPI_Calculation_of_inc.inspection.Properties.Resources.resources
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\x86\Debug\KPI_Calculation of inc.inspection.csproj.GenerateResource.cache
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\x86\Debug\KPI_Calculation of inc.inspection.csproj.CoreCompileInputs.cache
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\x86\Debug\KPI_Calculation of inc.inspection.csproj.CopyComplete
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\x86\Debug\KPI_Calculation of inc.inspection.exe
+C:\Users\taras\OneDrive\Рабочий стол\KPI\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\x86\Debug\KPI_Calculation of inc.inspection.pdb

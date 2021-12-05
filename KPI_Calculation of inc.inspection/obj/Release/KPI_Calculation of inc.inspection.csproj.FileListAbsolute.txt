@@ -1,0 +1,14 @@
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\bin\Release\KPI_Calculation of inc.inspection.exe.config
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\bin\Release\KPI_Calculation of inc.inspection.exe
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\bin\Release\KPI_Calculation of inc.inspection.pdb
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Release\KPI_Calculation of inc.inspection.csprojResolveAssemblyReference.cache
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Release\KPI_Calculation_of_inc.inspection.Form1.resources
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Release\KPI_Calculation_of_inc.inspection.Properties.Resources.resources
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Release\KPI_Calculation of inc.inspection.csproj.GenerateResource.Cache
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Release\KPI_Calculation of inc.inspection.exe
+C:\Users\Тарас\Documents\Visual Studio 2017\Projects\Fresh\KPI_Calculation of inc.inspection\KPI_Calculation of inc.inspection\obj\Release\KPI_Calculation of inc.inspection.pdb
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Release\KPI_Calculation of inc.inspection.csprojAssemblyReference.cache
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Release\KPI_Calculation_of_inc.inspection.MainWindow.resources
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Release\KPI_Calculation of inc.inspection.csproj.GenerateResource.cache
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Release\KPI_Calculation of inc.inspection.exe
+C:\Users\Taras\Documents\Visual Studio 2017\Projects\Зберегти\KPI_Calculation of inc.inspection_TEST\KPI_Calculation of inc.inspection\obj\Release\KPI_Calculation of inc.inspection.pdb
